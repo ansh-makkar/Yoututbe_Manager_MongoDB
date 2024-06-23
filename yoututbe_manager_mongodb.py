@@ -1,4 +1,6 @@
+# pip install pymongo 
 import pymongo
+
 from bson import ObjectId
 
 client=pymongo.MongoClient("mongodb+srv://yoututbepy:youtubepy@youtubemanager.il6bfeg.mongodb.net/")
